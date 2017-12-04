@@ -1,4 +1,4 @@
-package Homeworks.SD2x.TreeMaps_and_PriorityQueues;
+package Homeworks.SD2x.tree_maps_and_priority_queues;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -8,7 +8,6 @@ import static org.junit.Assert.*;
 import java.util.PriorityQueue;
 import java.util.TreeMap;
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class MovieRatingsParserTest {
     private UserMovieRating umr_1 = new UserMovieRating("umr_1", 1);

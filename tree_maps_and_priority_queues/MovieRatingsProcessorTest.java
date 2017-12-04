@@ -1,4 +1,4 @@
-package Homeworks.SD2x.TreeMaps_and_PriorityQueues;
+package Homeworks.SD2x.tree_maps_and_priority_queues;
 
 import org.junit.Before;
 import org.junit.Test;

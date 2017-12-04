@@ -1,4 +1,4 @@
-package Homeworks.SD2x.TreeMaps_and_PriorityQueues;
+package Homeworks.SD2x.tree_maps_and_priority_queues;
 /*
  * SD2x Homework #5
  * Implement the method below according to the specification in the assignment description.
